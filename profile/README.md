@@ -1,7 +1,7 @@
 # Shaman Technology LLC
 Enchanting Technology, Engineering Wisdom
 
-## Welcome to Shaman Technology, LLC
+## Who
 
 We're Shaman Technology, LLC, a pioneering Software and Computer Engineering company based in Philadelphia, Pennsylvania, USA.
 

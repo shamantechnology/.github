@@ -1,7 +1,7 @@
 # Shaman Technology LLC
-## Enchanting Technology, Engineering Wisdom
+Enchanting Technology, Engineering Wisdom
 
-### Intro
+## Intro
 <!--
 
 **Here are some ideas to get you started:**

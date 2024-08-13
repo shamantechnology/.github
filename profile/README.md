@@ -1,8 +1,6 @@
 # Shaman Technology LLC
 Enchanting Technology, Engineering Wisdom
 
-(logo coming soon)
-
 ## Who
 
 We're Shaman Technology, LLC, a pioneering Software and Computer Engineering company based in Fairbanks, Alaska, USA.

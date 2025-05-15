@@ -1,8 +1,5 @@
 # Shaman Technology LLC
-
-## Who
-
-Shaman Technology, LLC is a Software and Computer Engineering firm based in Fairbanks, Alaska. We build custom solutions across a wide range of domains—from distributed AI systems and compiler toolchains to games and creative tech.
+Software and Computer Engineering firm based in Fairbanks, Alaska. We build custom solutions across a wide range of domains—from distributed AI systems and compiler toolchains to games and creative tech.
 
 
 <!--

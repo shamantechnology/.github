@@ -1,5 +1,4 @@
 # Shaman Technology LLC
-Enchanting Technology, Engineering Wisdom
 
 ## Who
 

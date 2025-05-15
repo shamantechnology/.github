@@ -3,9 +3,7 @@ Enchanting Technology, Engineering Wisdom
 
 ## Who
 
-We're Shaman Technology, LLC, a pioneering Software and Computer Engineering company based in Fairbanks, Alaska, USA.
-
-Our company ethos draws inspiration from Shamanism—emphasizing meditation and foresight. These guiding principles enable us to craft cutting-edge software and hardware that position us at the forefront of technological advancements. Leveraging state-of-the-art tools, our dedicated team develops efficient solutions that harness the power of the latest technology. Join us on our journey as we lead the way in innovation and strive for excellence.
+Shaman Technology, LLC is a Software and Computer Engineering firm based in Fairbanks, Alaska. We build custom solutions across a wide range of domains—from distributed AI systems and compiler toolchains to games and creative tech.
 
 
 <!--
